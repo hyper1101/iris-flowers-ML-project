@@ -42,7 +42,7 @@ Pandas
 
 Matplotlib & Seaborn (for data visualization)
 
-Scikit-learn (for ML algorithms)
+Scikit-learn (for ML algorithms(KNN:K-Nearest Neighbor))
 
 🎯 Goal
 The goal of this project is to:
@@ -51,4 +51,4 @@ Understand the basic workflow of a Machine Learning project
 
 Practice data exploration, preprocessing, and model training
 
-Learn how to evaluate a classification model
+Learn how to evaluate a classification model using KNN:K-Nearest Neighbor Algorithm
